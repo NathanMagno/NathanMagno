@@ -21,6 +21,10 @@ Visual Studio, Git, GitHub \
 \
 [![My Tools](https://skillicons.dev/icons?i=vscode,androidstudio,idea,pycharm,eclipse,figma,unity,visualstudio,git,github&perline=5)](https://skillicons.dev)
 
+
+# My summary
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Hitz299&theme=dark)](https://git.io/streak-stats)
+
 # **Contact**
 * [Linkedin](https://www.linkedin.com/in/nathan-magno)
 * E-mail: nathan.consolo17@gmail.com
