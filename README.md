@@ -48,7 +48,7 @@ Microsoft Azure
 <br>
 
 ## 📊 Estatísticas  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=hacker)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NathanMagno&theme=hacker)](https://git.io/streak-stats)
 
 --- 
 <br>
