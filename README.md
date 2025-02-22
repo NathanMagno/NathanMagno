@@ -1,48 +1,54 @@
 # **My Skills**
 
-## 🚀 Desenvolvimento Web
-* **Front-end:** JavaScript, HTML5, CSS3  
-* **Back-end:** Java, C#, Kotlin, Python  
+## 💻 Front-end
+* **Linguagens:** HTML5, CSS3, javaScript, typeScript  
+* **Frameworks & Bibliotecas:** React, Next.js, React Native  
 
-[![My Web Skills](https://skillicons.dev/icons?i=js,html,css,java,cs,kotlin,python)](https://skillicons.dev)
-
----
-
-## 📱 Desenvolvimento Mobile
-* **Android:** Java, Kotlin  
-* **Cross-platform:** Flutter  
-
-[![My Mobile Skills](https://skillicons.dev/icons?i=java,kotlin,flutter)](https://skillicons.dev)
+[![My Front-end Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs)](https://skillicons.dev)
 
 ---
 
-## ☁️ Cloud
-* Microsoft Azure  
+## 🖥️ Back-end
+* **Linguagens:** Java, Python, C#, Kotlin
+* **Frameworks:** .NET  
 
-[![My Cloud Skills](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
+[![My Back-end Skills](https://skillicons.dev/icons?i=java,python,cs,kotlin,dotnet)](https://skillicons.dev)  
 
 ---
 
 ## 🗃️ Banco de Dados
-* **SQL:** SQL, MySQL, Oracle SQL  
-* **ORMs:** NeonDB  
+* **SQL:** MySQL, Oracle SQL  
+* **NoSQL:** MongoDB  
 
-[![My Database Skills](https://skillicons.dev/icons?i=mysql,oracle,neondb)](https://skillicons.dev)
+[![My Database Skills](https://skillicons.dev/icons?i=mysql,mongodb&perline=6)](https://skillicons.dev)  
 
 ---
+
+## 🌥️ Cloud
+Microsoft Azure  
+
+[![My Cloud Skills](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)  
+
+---
+
 
 ## 🛠️ Ferramentas
-* Visual Studio Code, Android Studio, IntelliJ IDEA, PyCharm, Eclipse IDE, Figma, Unity Editor  
-* Visual Studio, Git, GitHub  
+* **IDE/Editor:** Visual Studio Code, Visual Studio, Android Studio, IntelliJ IDEA, PyCharm, Rider, Eclipse IDE , Unity Editor
+* **Design:** Figma  
+* **Controle de versão:** Git, GitHub  
+* **DevOps:** Docker
+* **Teste de API:** Postman, Insomnia
 
-[![My Tools](https://skillicons.dev/icons?i=vscode,androidstudio,idea,pycharm,eclipse,figma,unity,visualstudio,git,github&perline=5)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,idea,pycharm,rider,eclipse,unity,figma,git,github,docker,postman&perline=8)](https://skillicons.dev)
 
 ---
+
 
 ## 📊 Estatísticas  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=denvercoder1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=hacker)](https://git.io/streak-stats)
 
----
+--- 
+
 
 ## 📞 Contato
 * [LinkedIn](https://www.linkedin.com/in/nathan-magno)  
