@@ -27,7 +27,7 @@
 
 ---
 
-## 🌥️ Cloud
+## ☁️ Cloud
 Microsoft Azure  
 
 [![My Cloud Skills](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)  
