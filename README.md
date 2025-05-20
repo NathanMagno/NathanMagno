@@ -55,4 +55,4 @@ Microsoft Azure
 
 ## 📞 Contato
 * [LinkedIn](https://www.linkedin.com/in/nathan-magno)  
-* **E-mail:** nathan.consolo17@gmail.com
+* **E-mail:** nathanmgc.dev@gmail.com
