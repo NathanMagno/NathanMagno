@@ -2,19 +2,20 @@
 <br>
 
 ## 💻 Front-end
-* **Linguagens:** HTML5, CSS3, javaScript, typeScript  
-* **Frameworks & Bibliotecas:** React, Next.js, React Native  
+* **Linguagens:** HTML5, CSS3, JavaScript, typeScript
+* **Frameworks & Bibliotecas:** React, Next.js, React Native, TailWind CSS
 
-[![My Front-end Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs)](https://skillicons.dev)
+[![My Front-end Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind)](https://skillicons.dev)
 
 ---
 <br>
 
 ## 🖥️ Back-end
 * **Linguagens:** Java, Python, C#, Kotlin
-* **Frameworks:** .NET  
+* **Frameworks:** .NET, Spring Boot
+* **Runtimes:** Node.js
 
-[![My Back-end Skills](https://skillicons.dev/icons?i=java,python,cs,kotlin,dotnet)](https://skillicons.dev)  
+[![My Back-end Skills](https://skillicons.dev/icons?i=java,spring,python,cs,kotlin,dotnet,nodejs)](https://skillicons.dev)  
 
 ---
 <br>
@@ -39,10 +40,11 @@ Microsoft Azure
 * **IDE/Editor:** Visual Studio Code, Visual Studio, Android Studio, IntelliJ IDEA, PyCharm, Rider, Eclipse IDE , Unity Editor
 * **Design:** Figma  
 * **Controle de versão:** Git, GitHub  
-* **DevOps:** Docker
+* **DevOps:** Docker, Azure DevOps
 * **Teste de API:** Postman, Insomnia
+* **SO:** Linux
 
-[![My Tools](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,idea,pycharm,rider,eclipse,unity,figma,git,github,docker,postman&perline=8)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,idea,pycharm,rider,eclipse,unity,figma,git,github,docker,postman,linux&perline=8)](https://skillicons.dev)
 
 ---
 <br>
